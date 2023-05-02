@@ -27,7 +27,7 @@ Change directory into camera 1 and camera 2 and run on separate terminals <BR>
 python app.py
 ```
 Open the Landing Page <BR>
-The app is now working !!
+The app is now working !!!
 
 ## TEAM MEMBERS:
 [SANSKAR JAIN](https://github.com/sanskarjain25) <BR>
