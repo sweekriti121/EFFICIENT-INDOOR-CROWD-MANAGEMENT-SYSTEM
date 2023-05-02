@@ -21,7 +21,7 @@ pip install -r requirements_windows.txt
 ```
 pip install -r requirements_macm1.txt 
 ```
-Change directory into camera 1 and camera 2 and run Run on separate terminals <BR>
+Change directory into camera 1 and camera 2 and run on separate terminals <BR>
 
 ```
 python app.py
