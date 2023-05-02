@@ -11,7 +11,7 @@ HTML, CSS, JAVASCRIPT, PYTHON, FLASK, OPENCV, YOLO, THREADING & QUEUE MODULE, CO
 ## RUN THIS ON LOCAL SYSTEM
 To run this on your local system : <BR>
 Clone this repo <BR>
-Install the required libraries <BR>
+Install the required libraries(install using pip/condo the requirements_windows.txt for Windows and requirements_macm1.txt for Mac OS)<BR>
 Run the app.py files in both the folders on separate terminals <BR>
 Open the Landing Page <BR>
 The app is now working !!
