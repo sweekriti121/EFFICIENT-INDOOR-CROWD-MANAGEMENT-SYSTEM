@@ -16,10 +16,10 @@ git clone https://github.com/sweekriti121/EFFICIENT-INDOOR-CROWD-MANAGEMENT-SYST
 ```
 Install the required libraries(install using pip/condo the requirements_windows.txt for Windows and requirements_macm1.txt for Apple ARM)<BR>
 ```
-pip install -r requirements_windows.txt (Windows) 
+pip install -r requirements_windows.txt  
 ```
 ```
-pip install -r requirements_macm1.txt (Apple ARM)
+pip install -r requirements_macm1.txt 
 ```
 Change directory into camera 1 and camera 2 and run Run on separate terminals <BR>
 
